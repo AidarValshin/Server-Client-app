@@ -1,2 +1,6 @@
 # Server-Client-app
-There are 2 folders: ServerOS and ClientOS in here. Server is  multithreaded.
+Multithreaded server.
+Server's files:MonoThreadClientHandler.java ; MultiThreadServer.java.
+Other files connect with clients.
+The Package is common.
+
